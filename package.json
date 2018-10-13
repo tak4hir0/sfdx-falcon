@@ -28,7 +28,7 @@
     "yosay": "^2.0.2"
   },
   "devDependencies": {
-    "@oclif/dev-cli": "^1.19.0",
+    "@oclif/dev-cli": "1.19.0",
     "@oclif/plugin-help": "^2.1.2",
     "@oclif/test": "^1.2.1",
     "@oclif/tslint": "^3.1.0",
