@@ -6,7 +6,7 @@
   "bugs": "https://github.com/sfdx-isv/sfdx-falcon/issues",
   "dependencies": {
     "@oclif/command": "^1.5.1",
-    "@oclif/config": "^1.8.1",
+    "@oclif/config": "^1.9.0",
     "@oclif/errors": "^1.2.1",
     "@salesforce/command": "^0.2.5",
     "@salesforce/core": "^0.22.0",
